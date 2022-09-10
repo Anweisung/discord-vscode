@@ -1,6 +1,6 @@
-Building
+# Building
 
-npm i
-npm run build
-(npm i -g vsce)
-vsce package
+<p>npm i</p>
+<p>npm run build</p>
+<p>(npm i -g vsce)</p>
+<p>vsce package</p>
